@@ -14,7 +14,7 @@
         },
         {"tag": "hours",
          "patterns": ["What hours are you open?", "What are your hours?", "When are you open?" ],
-         "responses": ["We're open 24X7 ", "Our hours are 24X7"]
+         "responses": ["We're open 24X7 ", "Our hours are 24X7","we are available everytime"]
         },
         {"tag": "payments",
          "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
