@@ -23,5 +23,9 @@
         {"tag": "opentoday",
          "patterns": ["Are you open today?", "When do you open today?", "What are your hours today?"],
          "responses": ["We're open for 24X7"]
+        },
+    {"tag": "challan",
+         "patterns": ["How can i pay e challan", "Can i pay challan here", "How to pay e challan"],
+         "responses": ["You can login to e-pay mechanism"]
         }
 ]}
